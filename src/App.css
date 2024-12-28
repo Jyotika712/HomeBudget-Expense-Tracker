@@ -1,0 +1,11 @@
+.btn--warning {
+  background-color: white; /* White background */
+  color: white; /* White text */
+  border: 1px solid gray; /* Optional: gray border for better visibility */
+  transition: background-color 0.3s, color 0.3s; /* Smooth transition for hover effect */
+}
+
+.btn--warning:hover {
+  background-color: gray; /* Gray background on hover */
+  color: gray; /* Gray text on hover */
+}
